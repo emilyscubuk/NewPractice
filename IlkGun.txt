@@ -1,3 +1,9 @@
 
+<<<<<<< HEAD
 Ilk gun deneme 1
 Ilk ve son
+=======
+
+Erol branch eklendi 
+Erol branch eklendi mn kiln l
+>>>>>>> erol
